@@ -24,5 +24,5 @@
 # take a look:
   ![car racing1 - Made with Clipchamp](https://github.com/thippeswammy/3D-Car-racing-game/assets/73697198/41084c0b-0ec9-4d83-960e-ed4c2af02637)
   ![car racing2 - Made with Clipchamp](https://github.com/thippeswammy/3D-Car-racing-game/assets/73697198/ee48aa28-b715-479f-859b-706cdcd7742c)
-  ![car racing2 - Made with Clipchamp](https://github.com/thippeswammy/3D-Car-racing-game/assets/73697198/72701587-a401-43a6-87cc-cb5d80898837)
+  ![car racing3 - Made with Clipchamp](https://github.com/thippeswammy/3D-Car-racing-game/assets/73697198/aea9d4f1-fe7c-41e9-8e5e-324bf71ef002)
   ![car racing4 - Made with Clipchamp](https://github.com/thippeswammy/3D-Car-racing-game/assets/73697198/1dfcdefe-022e-4b27-90e4-ef15157b65b7)
